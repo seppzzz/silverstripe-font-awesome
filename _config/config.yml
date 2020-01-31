@@ -1,0 +1,10 @@
+---
+Name: font-awesome
+---
+ContentController:
+  extensions:
+   - FontAwesomeControllerExtension
+
+SiteConfig:
+  extensions:
+    - FontAwesomeSiteConfig
