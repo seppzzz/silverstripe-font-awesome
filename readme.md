@@ -33,7 +33,7 @@ A basic working example, and the following to any class you want the field on;
         $fields = parent::getCMSFields();
 
         $fields->addFieldsToTab('Root.Main', array(
-           FontAwesomeField::create("Icon", "Font Awesome icon")
+           MyFontAwesomeField::create('Icon','Font Awesome icon')
         ));
 
         return $fields;
