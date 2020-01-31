@@ -15,11 +15,10 @@ Ideally composer will be used to install this module.
 
 ## Screen shots
 
-### Font awesome icon view
-![Font awesome icon](https://raw.githubusercontent.com/peavers/silverstripe-font-awesome/master/images/screens/font-awesome-icons.png "Icons")
+
 ---------------------------------------
 ### Filter view
-![Filter](https://raw.githubusercontent.com/peavers/silverstripe-font-awesome/master/images/screens/font-awesome-filter.png "Filter")
+![Filter](https://raw.githubusercontent.com/peavers/silverstripe-font-awesome/master/images/screens/screenshot.png "Filter")
 
 ## Usage
 A basic working example, and the following to any class you want the field on; 
