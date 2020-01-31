@@ -18,7 +18,7 @@ Ideally composer will be used to install this module.
 
 ---------------------------------------
 ### Filter view
-![Filter](https://raw.githubusercontent.com/peavers/silverstripe-font-awesome/master/images/screens/screenshot.png "Filter")
+![Filter](https://raw.githubusercontent.com/seppzzz/silverstripe-font-awesome/master/screenshot.png "Filter")
 
 ## Usage
 A basic working example, and the following to any class you want the field on; 
