@@ -5,14 +5,6 @@ Provides a field to easily pick font-awesome icons
 * Easily pick icons to be used anywhere in the frontend
 * Can filter on icon name
 
-## Installation
-
-### Composer
-Make sure you're not double loading the css/fonts with a theme.
-
-Ideally composer will be used to install this module. 
-```composer require "moe/font-awesome:@stable"```
-
 ## Screen shots
 
 
